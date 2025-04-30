@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+.seccion {
+  height: 100vh;
+}
+
+.sec1 {
+  background-color: #6ff76b;
+}
+
+.sec2 {
+  background-color: #f742e8;
+}
+
+.sec3 {
+  background-color: #f7f44b;
+}
+
+.sec4 {
+  background-color: #0d43af;
+}
